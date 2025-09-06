@@ -146,6 +146,18 @@ Luiz explicou como os profissionais de segurança trabalham para proteger sistem
 
 ---
 
+## 💻 Palestra Remota: Você é uma Pessoa Organizada? – Eduzz
+**Data:** 28/08/2024
+
+Nesta palestra remota, conduzida por Vinicius Lima e Michele Ambrosio da Eduzz, nós refletimos sobre a importância da organização pessoal e profissional.
+Os palestrantes discutiram métodos e estratégias para melhorar a gestão do tempo, definir prioridades e alcançar metas com mais eficiência.
+Eles organizaram uma atividade prática, na qual nós escrevíamos uma série de símbolos em duas ordens especificas e comparávamos o tempo que levou em cada uma, o que nos fez perceber como a forma realização de um trabalho afeta a eficiência.
+
+![Palestra](images/28-08-24.jpg)
+![Palestra](images/(2)28-08-24.jpg)
+
+---
+
 ## ✍️ Autor
 **Murilo Reis Schiavotto**
 Portfólio acadêmico de atividades extracurriculares.
