@@ -215,6 +215,148 @@ A palestra trouxe conselhos práticos para estudantes, destacando a importância
 
 ---
 
+## 🔴 Live: A Revolução da Web3 e a Propriedade Digital  
+**Data:** 04/11/2024
+
+Esta live, transmitida pelo canal da Fundação Iochpe no YouTube, abordou o tema da **Web3** e seu impacto na **propriedade digital**. O palestrante, **Caio Matos**, destacou como a tecnologia blockchain está transformando a forma de lidar com dados, ativos digitais e novas formas de economia descentralizada.  
+
+Durante a apresentação, foram discutidos:  
+- Os conceitos centrais da **Web3**;  
+- A importância da **propriedade digital** no mundo moderno;  
+- Exemplos práticos de aplicações e oportunidades de inovação nesse ecossistema;  
+- A relevância dessa transformação para o futuro do mercado de trabalho e para a formação de novas competências digitais.  
+
+<img src="images/04-11-24.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)04-11-24.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(3)04-11-24.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 💻 Palestra Remota: Desafios do primeiro emprego em TI e como superá-los  
+**Data:** 10/04/2025
+
+Nessa palestra remota nós fomos introduzidos à realidade da área de TI no mercado de trabalho. Discutimos temas atuais como:
+- A influência das IAs sobre o mercado
+- Desafios ao encontrar um trabalho
+- Como ser reconhecido no mercado (montando um perfil no LinkedIn, criando projetos pessoais no GitHub, etc)
+- Como é importante estar sempre atualizado nessa área.
+
+<img src="images/10-04-25.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)10-04-25.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(3)10-04-25.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 🎤 Palestra: Bate-papo Tech ITIX -  Carreira e Suporte na Prática  
+**Data:** 16/04/2025
+
+Nessa palestra nós discutimos temas como:
+- Troca de carreira/inicio de carreira
+- Estagiário buscando efetivação
+- Utilizando IA no dia a dia do trabalho
+- Gestão de Suporte
+Aprendemos sobre a importância da boa comunicação entre os setores que trabalham em algum projeto, ao final foi feita uma dinâmica em que nos separamos em grupos, cada grupo foi separado em dois setores: o setor de desenvolvimento e o de suporte.
+Um problema foi apresentado a nós, os analistas de suporte deveriam descobrir a causa do problema e então comunicar os desenvolvedores, que tinham que descobrir a solução.
+
+<img src="images/16-04-25.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)16-04-25.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 💻 Palestra Remota: LinkedIn e Marca Pessoal para Profissionais de TI  
+**Data:** 23/04/2025
+
+O objetivo da palestra foi nos orientar sobre como utilizar o LinkedIn de forma estratégica para fortalecer nossa marca pessoal e ampliar oportunidades de networking.
+
+Durante a apresentação, foram discutidos:  
+- Definição e importância da **marca pessoal**
+- Construção de uma imagem profissional sólida
+- Recomendações para **foto de perfil** e **título**
+- Estratégias para otimizar o perfil e destacar habilidades
+- A importância de interagir na rede por meio de posts, comentários e conexões
+
+Essa atividade reforçou a relevância de se posicionar de maneira estratégica em ambientes digitais, ampliando a visibilidade profissional e preparando para futuras oportunidades no mercado de trabalho.
+
+<img src="images/23-04-25.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)23-04-25.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 💻 Palestra Remota: Empreendedorismo e Inovação na Tecnologia  
+**Data:** 13/05/2025
+
+O objetivo da palestra foi discutir os desafios e oportunidades de **empreender na área de Tecnologia da Informação**, apresentando **cases de startups** e exemplos de inovação tecnológica.
+
+A palestrante, **Luciana Ogusco**, compartilhou suas experiências pessoais no setor, destacando tanto os erros quanto os acertos ao longo de sua trajetória profissional.
+A partir disso, forneceu conselhos práticos e reflexões sobre:
+- Como identificar oportunidades de inovação
+- Os principais desafios de uma startup
+- A importância de aprender com falhas e persistir no processo empreendedor
+- O impacto da inovação tecnológica no mercado atual e futuro.
+
+Essa atividade foi fundamental para compreender melhor o cenário do **empreendedorismo em TI**, reforçando a importância da resiliência, da criatividade e da adaptação como competências essenciais para profissionais da área.
+
+<img src="images/13-05-25.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)13-05-25.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 💻 Palestra Remota: Produtividade e Organização no Dia a Dia  
+**Data:** 20/08/2025
+
+O objetivo da palestra foi apresentar ferramentas e estratégias para melhorar a **produtividade** e a **organização** no dia a dia, tanto no ambiente **remoto** quanto no **presencial**.
+
+Durante a apresentação, a palestrante abordou:
+- Técnicas de organização aplicáveis ao cotidiano
+- Métodos de **gestão de tempo**
+- Boas práticas para equilibrar tarefas profissionais e pessoais
+- A utilização da **Matriz de Eisenhower** para definir prioridades
+- Outras técnicas complementares de planejamento e foco
+
+A atividade contribuiu para reforçar a importância da **autogestão** e da adoção de ferramentas práticas para aumentar a eficiência e reduzir o estresse no ambiente de trabalho.
+
+<img src="images/20-08-25.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 📝 Treinamento Presencial: Banco de Dados  
+**Data:** 27/08/2025
+
+Nesse treinamento nós aprendemos conceitos relacionados aos Bancos de Dados.
+Foram apresentados alguns conceitos básicos como:
+- SGBDRs (Sistemas de Gerenciamento de Banco de Dados Relacional)
+- Tabelas
+- Chave Primária e Estrangeira
+
+E também alguns conceitos mais avançados:
+- Funções
+- Stored Procedures
+- Triggers
+
+Após a palestra, nós fomos aos laboratórios e realizamos algumas atividades relacionadas ao assunto, executando inserts, selects e outros comandos do SQL.
+
+<img src="images/27-08-25.jpeg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 📝 Treinamento Presencial: Banco de Dados  
+**Data:** 03/09/2025
+
+O objetivo da palestra foi conscientizar sobre a importância da **Segurança da Informação** e apresentar medidas práticas para proteção de dados pessoais e corporativos.
+
+Durante a apresentação, o palestrante abordou:
+- O conceito de **MFA (Multi-Factor Authentication)** como camada adicional de segurança
+- A criação de **senhas fortes e seguras**
+- Técnicas de **phishing** e como identificá-las
+- Outras práticas essenciais para reduzir riscos de ataques cibernéticos
+
+A atividade ressaltou a relevância da **cibersegurança** no cotidiano e no ambiente profissional, destacando como pequenas mudanças de hábito podem contribuir para uma maior proteção de informações sensíveis.
+
+<img src="images/03-09-25.jpeg" alt="Palestra Remota" height="400"/>
+
+
+---
+
 ## ✍️ Autor
 **Murilo Reis Schiavotto**
 Portfólio acadêmico de atividades extracurriculares.
