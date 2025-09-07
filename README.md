@@ -29,7 +29,7 @@ O palestrante abordou:
 
 A palestra também trouxe exemplos práticos de situações comuns no cotidiano desse profissional, oferecendo uma visão realista e motivadora sobre a carreira em suporte técnico.
 
-![Palestra Remota](images/27-04-23.jpg)
+<img src="images/27-04-23.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -40,7 +40,7 @@ Durante a Semana Paulo Freire, nós participamos de uma palestra de boas-vindas 
 A apresentação incluiu uma introdução à empresa, sua área de atuação e os valores que guiam o trabalho da equipe.
 Carlos compartilhou sua experiência no mercado de tecnologia e destacou as competências que a empresa valoriza em novos profissionais, além de oferecer uma visão sobre as oportunidades e desafios no setor de TI.
 
-![Palestra](images/04-05-23.png)
+<img src="images/04-05-23.png" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -78,7 +78,7 @@ Neste treinamento presencial, oferecido pela empresa parceira ITIX, nós recebem
 Foram apresentadas boas práticas e frameworks usados no setor, com destaque para a metodologia ágil e o framework Scrum.
 A palestra incluiu orientações sobre planejamento de atividades e criação de cronogramas, com exercícios práticos para aprimorar a compreensão dos processos envolvidos no desenvolvimento de projetos.
 
-![Treinamento](images/16-11-23.png)
+<img src="images/16-11-23.png" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -99,7 +99,7 @@ Ele explorou as aplicações práticas da IA em diferentes setores e discutiu co
 Depois nós tivemos uma atividade prática: usar ferramentas de Inteligência Artificial para construir um currículo, usamos o Chat GPT para gerar o conteúdo e o Gama App para criar o layout.
 A atividade nos mostrou como funciona a engenharia de prompt e como ela influencia nos resultados gerados pela IA.
 
-![Palestra](images/23-05-24.jpg)
+<img src="images/23-05-24.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -110,7 +110,7 @@ Nesta palestra remota conduzida por Victor Palencia e Débora de Andrade, foram 
 Eles discutiram a evolução do conceito de Mundo VUCA (Volatilidade, Incerteza, Complexidade e Ambiguidade) para o conceito de Mundo BANI (Brittle, Anxious, Nonlinear, Incomprehensible), refletindo as mudanças e desafios atuais enfrentados pelas organizações.
 Os palestrantes destacaram a Gestão 3.0, um modelo que promove a autonomia, a colaboração e a motivação, onde equipes têm liberdade para tomar decisões e contribuir ativamente para o sucesso organizacional, criando uma cultura saudável e inovadora.
 
-![Palestra](images/27-05-24.jpg)
+<img src="images/27-05-24.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -121,7 +121,7 @@ Neste encontro, nós participamos de um bate-papo com estagiários da empresa pa
 Os estagiários discutiram as habilidades que adquiriram e como têm aplicado o conhecimento teórico na prática.
 A conversa permitiu que nós obtivéssemos uma visão realista sobre o início da carreira em TI, além de dicas valiosas para se destacar nos primeiros passos profissionais.
 
-![Palestra](images/18-06-24.jpg)
+<img src="images/18-06-24.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -131,7 +131,7 @@ A conversa permitiu que nós obtivéssemos uma visão realista sobre o início d
 Na palestra conduzida por Edmilson, foi explorado o conceito de homelabs como uma forma eficaz de impulsionar o aprendizado e o desenvolvimento em tecnologia.
 Edmilson discutiu os benefícios de configurar um ambiente de desenvolvimento próprio, destacando como essa prática permite o estudo aprofundado de novas tecnologias, simulação de problemas reais e ganho de experiência prática. No fim, fomos questionados sobre os conceitos abordados durante a palestra.
 
-![Palestra](images/(2)18-06-24.jpg)
+<img src="images/(2)18-06-24.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -141,8 +141,8 @@ Edmilson discutiu os benefícios de configurar um ambiente de desenvolvimento pr
 Nessa palestra remota, Luiz Fernando Milagres, da empresa Eduzz, abordou o papel do “hacker do bem” e a importância da segurança digital no cotidiano.
 Luiz explicou como os profissionais de segurança trabalham para proteger sistemas e dados, e destacou as práticas essenciais para fortalecer a segurança digital tanto em ambientes profissionais quanto pessoais.
 
-![Palestra](images/31-07-24.jpg)
-![Palestra](images/(2)31-07-24.jpg)
+<img src="images/31-07-24.jpg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)31-07-24.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
@@ -153,8 +153,65 @@ Nesta palestra remota, conduzida por Vinicius Lima e Michele Ambrosio da Eduzz, 
 Os palestrantes discutiram métodos e estratégias para melhorar a gestão do tempo, definir prioridades e alcançar metas com mais eficiência.
 Eles organizaram uma atividade prática, na qual nós escrevíamos uma série de símbolos em duas ordens especificas e comparávamos o tempo que levou em cada uma, o que nos fez perceber como a forma realização de um trabalho afeta a eficiência.
 
-![Palestra](images/28-08-24.jpg)
-![Palestra](images/(2)28-08-24.jpg)
+<img src="images/28-08-24.jpg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)28-08-24.jpg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 💻 Palestra Remota: Fluxo de Operações Comercial – Uno ERP
+**Data:** 29/08/2024
+
+Nesta palestra remota, André Lopes e Tamiris Marciano, da empresa Uno, apresentaram o fluxo de operações comerciais utilizando o sistema Uno ERP.
+Os palestrantes explicaram como o ERP otimiza processos empresariais, desde o gerenciamento de vendas e estoques até o atendimento ao cliente.
+A palestra destacou as funcionalidades essenciais do sistema e demonstrou como uma solução integrada pode trazer mais eficiência e controle às operações comerciais, nos proporcionando uma visão prática sobre o uso de ERPs no mercado.
+
+---
+
+## 🎤 Palestra: Tendências da Área de TI com a Virada da IA Generativa e Outras Tecnologias – Tegra
+**Data:** 05/09/2024
+
+Nesta palestra presencial, Guilherme Bastos, da empresa Tegra, explorou as principais tendências da área de TI, com foco no impacto das tecnologias emergentes, como a IA Generativa.
+Guilherme discutiu como essas inovações estão transformando o mercado e criando novas oportunidades para profissionais da área.
+A palestra abordou o potencial da IA e outras tecnologias avançadas para impulsionar a automação, otimização de processos e criação de soluções inovadoras, nos proporcionando uma perspectiva sobre o futuro da tecnologia e as habilidades que serão valorizadas.
+
+<img src="images/05-09-24.jpg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 💻 Palestra Remota: Capricho – Skill Cada Vez Mais Raro no Mercado – Eduzz
+**Data:** 24/09/2024
+
+Nessa palestra remota, Luiz Fernando Milagres, da Eduzz, falou sobre a importância do capricho e da atenção aos detalhes como habilidades diferenciais no mercado de trabalho.
+Luiz discutiu como essa competência, muitas vezes subestimada, contribui para a qualidade dos projetos e a satisfação dos clientes.
+A palestra nos incentivou a desenvolver um cuidado extra em suas atividades, destacando que o capricho, aliado às habilidades técnicas, é um diferencial cada vez mais valorizado pelos empregadores.
+
+<img src="images/24-09-24.jpg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 🎤 Palestra: Desenvolvimento Low Code – Tegra
+**Data:** 10/10/2024
+
+Nesta palestra presencial, Guilherme Bastos, da empresa Tegra, apresentou as diferenças entre desenvolvimento Low Code e No Code.
+Guilherme explicou as vantagens de cada abordagem, que permitem a criação de aplicações com pouca ou nenhuma necessidade de programação avançada, tornando o desenvolvimento mais acessível e ágil.
+A palestra incluiu exemplos práticos do uso de plataformas Low Code no mercado, como o FlutterFlow, e nos incentivou a explorar essa metodologia como uma alternativa eficiente para o desenvolvimento de projetos.
+Ao final, respondemos um formulário com questões sobre o conteúdo da palestra.
+
+<img src="images/10-10-24.jpg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)10-10-24.jpg" alt="Palestra Remota" height="400"/>
+
+---
+
+## 🔴 Live: Preparando-se para o Amanhã – Da ETEC/FATEC para o Mundo – Fundação Iochpe
+**Data:** 17/10/2024
+
+Nesta live no YouTube, promovida pela Fundação Iochpe, a palestrante Flávia Freitas discutiu a importância da preparação contínua para o mercado de trabalho e como os cursos técnicos da Etec podem abrir portas para a Fatec e além.
+Ex-alunos compartilharam suas trajetórias e mostraram como a formação técnica e acadêmica foi essencial para suas carreiras.
+A palestra trouxe conselhos práticos para estudantes, destacando a importância do foco, da disposição para aprender e da valorização das oportunidades durante a jornada educacional e profissional.
+
+<img src="images/17-10-24.jpg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)17-10-24.jpg" alt="Palestra Remota" height="400"/>
+<img src="images/(3)17-10-24.jpg" alt="Palestra Remota" height="400"/>
 
 ---
 
