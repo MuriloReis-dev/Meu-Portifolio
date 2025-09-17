@@ -339,7 +339,7 @@ Após a palestra, nós fomos aos laboratórios e realizamos algumas atividades r
 
 ---
 
-## 📝 Treinamento Presencial: Banco de Dados  
+## 💻 Palestra Remota: Segurança da Informação e Cibersegurança  
 **Data:** 03/09/2025
 
 O objetivo da palestra foi conscientizar sobre a importância da **Segurança da Informação** e apresentar medidas práticas para proteção de dados pessoais e corporativos.
@@ -354,6 +354,21 @@ A atividade ressaltou a relevância da **cibersegurança** no cotidiano e no amb
 
 <img src="images/03-09-25.jpeg" alt="Palestra Remota" height="400"/>
 
+---
+
+## 💻 Palestra Remota: Inteligência Artificial na Prática: Aplicações no Mercado  
+**Data:** 03/09/2025
+
+O objetivo da palestra foi ensinar métodos de organização, gestão de tempo e boas práticas no trabalho remoto e presencial utilizando Inteligência Artificial.
+
+Nessa palestra nós fomos apresentados às muitas aplicações das inteligências artificiais no dia a dia e no trabalho, incluindo também dicas para utilizar todo o seu potencial.
+Alguns benefícios do uso correto de IAs apresentados são:
+- Redução de tempo: alguns trabalhos repetitivos e demorados podem ser extremamente facilitados pelo uso de IAs.
+- Análise de dados: as IAs ajudam a analizar dados que podem passar despercebidos por um ser humano.
+- Detecção de conteúdo falso ou mal intencionado: sistemas como o do IFood utilizam IAs para detecção de fraudes, golpes, spam, entre outros.
+
+<img src="images/16-09-25.jpeg" alt="Palestra Remota" height="400"/>
+<img src="images/(2)16-09-25.jpeg" alt="Palestra Remota" height="400"/>
 
 ---
 
