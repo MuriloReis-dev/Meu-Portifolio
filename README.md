@@ -357,7 +357,7 @@ A atividade ressaltou a relevância da **cibersegurança** no cotidiano e no amb
 ---
 
 ## 💻 Palestra Remota: Inteligência Artificial na Prática: Aplicações no Mercado  
-**Data:** 03/09/2025
+**Data:** 16/09/2025
 
 O objetivo da palestra foi ensinar métodos de organização, gestão de tempo e boas práticas no trabalho remoto e presencial utilizando Inteligência Artificial.
 
